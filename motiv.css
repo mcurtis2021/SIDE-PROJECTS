@@ -1,0 +1,42 @@
+.first {
+  border: 5px dotted blue;
+  padding: 3%;
+}
+
+.second {
+  border: 5px groove purple;
+  padding: 30px;
+}
+
+/* .third {
+  border: 5px dashed red;
+  padding: 60px;
+}
+
+.fourth {
+  border: 5px ridge orange;
+  padding: 120px;
+} */
+
+/* .random-border {
+        /*  create a preset if needed or 
+                just in .js file ****
+    } */
+body {
+  background-color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.motiv-button {
+  color: greenyellow;
+  background-color: brown;
+  display: block;
+  margin: auto;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
